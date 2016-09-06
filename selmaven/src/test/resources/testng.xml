@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="listen">
+<test name="listentest">
+<classes>
+<class name="ford.selmaven.AlertTest">
+       </class>
+       <class name="ford.selmaven.CopyOfAlertTest">
+       </class>
+</classes>
+</test>
+</suite>

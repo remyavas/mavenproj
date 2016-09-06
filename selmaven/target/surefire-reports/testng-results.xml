@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="listen" duration-ms="278" started-at="2016-09-04T00:24:35Z" finished-at="2016-09-04T00:24:35Z">
+    <groups>
+    </groups>
+    <test name="listentest" duration-ms="278" started-at="2016-09-04T00:24:35Z" finished-at="2016-09-04T00:24:35Z">
+      <class name="ford.selmaven.AlertTest">
+        <test-method status="PASS" signature="alert()[pri:0, instance:ford.selmaven.AlertTest@3cda1055]" name="alert" duration-ms="100" started-at="2016-09-04T05:54:35Z" finished-at="2016-09-04T05:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alert -->
+        <test-method status="PASS" signature="alerttrial()[pri:0, instance:ford.selmaven.AlertTest@3cda1055]" name="alerttrial" duration-ms="10" started-at="2016-09-04T05:54:35Z" finished-at="2016-09-04T05:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alerttrial -->
+      </class> <!-- ford.selmaven.AlertTest -->
+      <class name="ford.selmaven.CopyOfAlertTest">
+        <test-method status="PASS" signature="alert()[pri:0, instance:ford.selmaven.CopyOfAlertTest@79b4d0f]" name="alert" duration-ms="0" started-at="2016-09-04T05:54:35Z" finished-at="2016-09-04T05:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alert -->
+        <test-method status="PASS" signature="alerttrial()[pri:0, instance:ford.selmaven.CopyOfAlertTest@79b4d0f]" name="alerttrial" duration-ms="0" started-at="2016-09-04T05:54:35Z" finished-at="2016-09-04T05:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alerttrial -->
+      </class> <!-- ford.selmaven.CopyOfAlertTest -->
+    </test> <!-- listentest -->
+  </suite> <!-- listen -->
+</testng-results>
